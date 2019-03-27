@@ -1,4 +1,5 @@
 //
+// 渲染文字阶段
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
