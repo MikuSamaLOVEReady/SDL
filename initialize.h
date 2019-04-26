@@ -13,7 +13,7 @@
 void init( void );
 void rendpart ( void ) ;
 void animation ( void );
-
+void motion ( void );
 
 
 
